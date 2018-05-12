@@ -1,0 +1,29 @@
+_repo: '----_24114'
+_version: 0.1.0
+alternative_title: Dong Po Zhi Lin
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Su, Shi
+    alias: 蘇軾
+    birthdate: 1037
+    deathdate: 1101
+    gutenberg_agent_id: '26172'
+    url: http://www.gutenberg.org/2009/agents/26172
+    wikipedia: http://en.wikipedia.org/wiki/Su_Shi
+description: ''
+gutenberg_issued: '2008-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24114'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'China -- History -- Song dynasty, 960-1279 -- Anecdotes'
+title: 東坡志林
+url: http://www.gutenberg.org/ebooks/24114
